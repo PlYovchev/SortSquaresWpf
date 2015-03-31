@@ -1,0 +1,13 @@
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\bin\Debug\SortSquares.exe.config
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\bin\Debug\SortSquares.exe
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\bin\Debug\SortSquares.pdb
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.csprojResolveAssemblyReference.cache
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\MainWindow.baml
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\MainWindow.g.cs
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\App.g.cs
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares_MarkupCompile.cache
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.g.resources
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.Properties.Resources.resources
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.csproj.GenerateResource.Cache
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.exe
+c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.pdb
