@@ -76,6 +76,7 @@ namespace SortSquares
                     else
                     {
                         Buttons[i, j].Visibility = Visibility.Hidden;
+                        Console.WriteLine(Buttons[i, j].Name + " " + numbersTempList.Count);
                     }
                 }
             }
@@ -144,19 +145,19 @@ namespace SortSquares
 
             int row = indexes[0];
             int col = indexes[1];
-            if (row > 0 && !Buttons[row - 1, col].IsVisible)
+            if (row > 0 && Buttons[row - 1, col].Visibility == Visibility.Hidden)
             {
                 return Direction.Up;
             }
-            else if (row < (Buttons.GetLength(0) - 1) && !Buttons[row + 1, col].IsVisible)
+            else if (row < (Buttons.GetLength(0) - 1) && Buttons[row + 1, col].Visibility == Visibility.Hidden)
             {
                 return Direction.Down;
             }
-            else if (col > 0 && !Buttons[row, col - 1].IsVisible)
+            else if (col > 0 && Buttons[row, col - 1].Visibility == Visibility.Hidden)
             {
                 return Direction.Left;
             }
-            else if (col < (Buttons.GetLength(1) - 1) && !Buttons[row, col + 1].IsVisible)
+            else if (col < (Buttons.GetLength(1) - 1) && Buttons[row, col + 1].Visibility == Visibility.Hidden)
             {
                 return Direction.Right;
             }
@@ -213,6 +214,11 @@ namespace SortSquares
             {
                 for (int j = 0; j < Buttons.GetLength(1); j++)
                 {
+                    if (Buttons[i, j].Visibility == Visibility.Hidden)
+                    {
+                        continue;
+                    }
+
                     if (Buttons[i, j].Content.Equals(currentNumber.ToString()))
                     {
                         currentNumber++;
