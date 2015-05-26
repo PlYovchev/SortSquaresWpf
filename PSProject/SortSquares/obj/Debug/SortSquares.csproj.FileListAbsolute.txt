@@ -11,3 +11,16 @@ c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\De
 c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.csproj.GenerateResource.Cache
 c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.exe
 c:\users\plt3ch\documents\visualstudio2013\Projects\PSProject\SortSquares\obj\Debug\SortSquares.pdb
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\bin\Debug\SortSquares.exe.config
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares.exe
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares.pdb
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\bin\Debug\SortSquares.exe
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\bin\Debug\SortSquares.pdb
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares.csprojResolveAssemblyReference.cache
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\MainWindow.baml
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\MainWindow.g.cs
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\App.g.cs
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares_MarkupCompile.cache
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares.g.resources
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares.Properties.Resources.resources
+C:\Users\plt3ch\Documents\GitHub\SortSquaresWpf\PSProject\SortSquares\obj\Debug\SortSquares.csproj.GenerateResource.Cache
